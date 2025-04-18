@@ -18,7 +18,7 @@ Cocok untuk media pembelajaran siswa atau siapa pun yang ingin memahami bagaiman
 
 ## 🧠 Catatan
 Website ini dibuat sebagai media pembelajaran biologi berbasis web sederhana.  
-Tidak membutuhkan server, cukup browser saja.
+Tidak membutuhkan server, cukup browser saja. Jika membuka linknya menggunakan handphone, gunakan desktop site agar tidak di crop (jika mengalami crop)
 
 ## 👤 Pembuat
-Dibuat oleh [Namakamu](https://github.com/miyamura-hori) ✨
+Dibuat oleh [sylphianne](https://github.com/miyamura-hori) ✨
