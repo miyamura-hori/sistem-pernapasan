@@ -1,0 +1,56 @@
+body {
+    background-color: rgba(141, 134, 121, 0.26);
+}
+
+video {
+    width: 100%;
+    aspect-ratio: 16/9;
+}
+
+article {
+    width: clamp(200px, 50%, 600px);
+}
+
+.image {
+    max-width: 100%;
+    max-height: 350px;
+}
+
+@media (max-width: 600px) {
+    * {
+        font-size: 2vw;
+        margin: 2px;
+    }
+}
+
+.section {
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+}
+
+a {
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.div {
+    display: flex;
+    justify-content: center;
+}
+
+.indiv {
+    margin: 10px;
+    text-align: center;
+    background-color: rgb(192, 216, 214);
+}
+
+.sans {
+    font-family: "Winky Sans", sans-serif;
+    font-weight: 300;
+}
