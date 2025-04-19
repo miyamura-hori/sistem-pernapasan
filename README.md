@@ -1,24 +1,24 @@
-# 🫁 Sistem Pernapasan
+# 🫁 Respiratory System
 
-Website ini menjelaskan tentang **sistem pernapasan manusia** secara sederhana.  
-Cocok untuk media pembelajaran siswa atau siapa pun yang ingin memahami bagaimana proses pernapasan berlangsung.
+This website explains the **human respiratory system** in simple terms.
+Suitable for student learning media or anyone who wants to understand how the breathing process takes place.
 
-## 🌐 Demo Live
-🔗 [Lihat Website](https://miyamura-hori.github.io/sistem-pernapasan/)
+## 🌐 Live Demo
+🔗 [View Website](https://miyamura-hori.github.io/sistem-pernapasan/)
 
-## 📖 Isi Website
-- Organ-organ pernapasan (rongga hidung, trakea, paru-paru, dll)
-- Fungsi bagian organ (rongga hidung, rongga mulut, faring, laring, dll)
-- Gambar pendukung
+## 📖 Website Contents
+- Respiratory organs (nasal cavity, trachea, lungs, etc.)
+- Functions of organ parts (nasal cavity, oral cavity, pharynx, larynx, etc.)
+- Supporting images
 
-## 🛠️ Cara Menjalankan
-1. Download atau clone repo ini
-2. Buka file `index.html` di browser
-3. Selesai! Bisa langsung dipelajari
+## 🛠️ How to Run
+1. Download or clone this repo
+2. Open the `index.html` file in a browser
+3. Done! Can be studied immediately
 
-## 🧠 Catatan
-Website ini dibuat sebagai media pembelajaran biologi berbasis web sederhana.  
-Tidak membutuhkan server, cukup browser saja. Jika membuka linknya menggunakan handphone, gunakan desktop site agar tidak di crop (jika mengalami crop)
+## 🧠 Note
+This website was created as a simple web-based biology learning media.
+Does not require a server, just a browser. If you open the link using a cellphone, use the desktop site so that it is not cropped (if cropped)
 
-## 👤 Pembuat
-Dibuat oleh [sylphianne](https://github.com/miyamura-hori) ✨
+## 👤 Creator
+Created by [sylphianne](https://github.com/miyamura-hori) ✨
